@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is peter's change to gaga!
-=======
-gaga
->>>>>>> do it
